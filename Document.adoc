@@ -1,0 +1,8 @@
+= 画像サンプル
+:figure-caption: 図
+:docinfo: shared
+:imagesdir: img
+
+.寿司寿司寿司
+image::sushi.png[width="300", align="center"]
+

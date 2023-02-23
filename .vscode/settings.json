@@ -1,0 +1,6 @@
+{
+    "asciidoc.preview.style": "css/adoc-github.css",
+    "asciidoc.asciidoctor_command": "asciidoctor -a stylesheet=css/adoc-github.css sample.adoc",
+    "asciidoc.use_asciidoctorpdf": true,
+    "asciidoc.asciidoctorpdf_command": "asciidoctor-pdf sample.adoc -n -a toc -a pdf-style=theme.yml"
+}
